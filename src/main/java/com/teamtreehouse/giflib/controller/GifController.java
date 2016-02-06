@@ -15,6 +15,4 @@ public class GifController {
         return "home";
     }
 
-
-
 }
